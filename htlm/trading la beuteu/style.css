@@ -1,0 +1,54 @@
+.title_first{ 
+    color: aqua;
+}
+
+.lien_externe{
+    color:burlywood
+}
+
+
+
+.bi{ 
+    color: azure;
+    background-image: linear-gradient(to top, rgb rgba(221, 24, 24, 0.467), rgb rgb(3, 3, 251));
+    background: no-repeat url(image/pluiededollarss.jpg);
+    background-size: cover;
+    height: 1200px;
+    text-align: center;
+    text-decoration: dotted;
+}
+
+.be{
+     background:  no-repeat url(image/erreur404bon.png);
+     background-position: center top;
+     background-color: black;
+     color: azure;
+
+}
+
+.t1henc{
+    color: aqua;
+    text-align: center;
+    margin-top: 0;
+  
+
+
+}
+
+.fe{
+margin-top: 300px;
+text-align:center;
+
+}
+    
+.dfe{
+    background: no-repeat url(image/SCAM.jpg);
+    background-position: center;
+    height: 150px;
+    
+
+}
+
+.footerindex{
+    margin-right: 25px;
+}

@@ -1,0 +1,33 @@
+.title_first{ 
+    color: aqua;
+}
+
+.lien_externe{
+    color:burlywood
+}
+
+
+
+.bi{ 
+    color: azure;
+    background-image: linear-gradient(to top, rgb rgba(221, 24, 24, 0.467), rgb rgb(3, 3, 251));
+    background: no-repeat url(image/pluiededollarss.jpg);
+    background-size: cover;
+    text-align: center;
+    text-decoration: dotted;
+}
+
+.be{
+     background: no-repeat url(https://fr.freepik.com/vecteurs-libre/glitch-error-404-page_4121421.htm);
+}
+
+.t1henc{
+    color: aqua;
+    text-align: center
+    ;
+
+
+}
+
+
+    
